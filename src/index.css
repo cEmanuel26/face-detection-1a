@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background: rgb(159, 7, 110);
+  background: linear-gradient(
+    90deg,
+    rgba(159, 7, 110, 1) 0%,
+    rgba(164, 114, 226, 1) 47%,
+    rgba(94, 211, 233, 1) 100%
+  );
+}
+button {
+  cursor: pointer;
+  border: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
